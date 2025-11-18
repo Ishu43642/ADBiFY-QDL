@@ -10,7 +10,7 @@ Flash Qualcomm Device Without PC Without Root in Simple Steps. QDL Tool Updated 
 
 ## File Locations
 1. Create qdl-flash folder under internal storage
-2. Download this repository zip file
+2. Download this [repository zip](https://github.com/Ishu43642/ADBiFY-QDL/archive/refs/heads/main.zip) file
 3. extract repository zip file under qdl-flash folder
 4. extract your flash file under qdl-flash folder
 

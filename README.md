@@ -42,4 +42,9 @@ bash adbify-qdl.sh
 
 
 # Credit :-
-1. [@RohitVerma](link)
+1. [@RohitVerma](https://github.com/RohitVerma882) For Adbify app and modify qdl
+2. [Repair A2Z](https://youtube.com/@repaira2z) For Adbify-qdl script
+
+## Subscribe My YouTube Channel 
+[Repair A2Z](https://youtube.com/@repaira2z)
+[Repair A2Z Mix](https://youtube.com/@repaira2zmix)

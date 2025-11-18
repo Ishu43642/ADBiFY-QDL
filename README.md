@@ -7,7 +7,6 @@ Flash Qualcomm Device Without PC Without Root in Simple Steps. QDL Tool Updated 
 ## installation :- 
 
 ```Install``` [ADBify](https://play.google.com/store/apps/details?id=com.rv882.adbify)```apk```
-```console
 
 ## File Locations
 1. Create qdl-flash folder under internal storage
@@ -25,7 +24,11 @@ cd /storage/emulated/0/qdl-flash
 ```console
 bash adbify-qdl.sh
 ```
-##
+## Tool interface & usage
+1. Here show all options emmc flash, ufs flash
+2. Enter your storage type then paste file locations
+3. you can also check otg connected device status
+4. switch fastboot to edl mode without opening mobile (BL unlocked device only)
 
 ## Note :-
 1. Download Your device firmware then extract it after extract Create ```qdl-flash``` folder in internal Storage.
@@ -36,11 +39,7 @@ bash adbify-qdl.sh
 
 ```And qdl-flash folder under internal storage root```
 
-after Run this tool useg Details show in screen.enter option according to your storage then paste your file location.
 
 
 # Credit :-
-1. 
-
-2. [Mahesh Verma](https://github.com/MaheshTechnicals) - For Ui Enhancement in my tool
-
+1. [@RohitVerma](link)

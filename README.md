@@ -34,14 +34,14 @@ after this commond tool show in screen
 5. Fastboot Device connected status 
 
 ## Note :
- Copy your Flash File & adbify-qdl.sh files to ```qdl-flash``` folder.
+1. Copy your Flash File & adbify-qdl.sh files to ```qdl-flash``` folder.
 
 ```all firmware file Must be under qdl-flash folder```
 
 ```And qdl-flash folder under internal storage ```
 
-Recommended File Manager - [Material Files](https://play.google.com/store/apps/details?id=me.zhanghai.android.files)
-Recommended Zip Extracter app - [Rar](https://play.google.com/store/apps/details?id=com.rarlab.rar)
+2. Recommended File Manager - [Material Files](https://play.google.com/store/apps/details?id=me.zhanghai.android.files)
+3. Recommended Zip Extracter app - [Rar](https://play.google.com/store/apps/details?id=com.rarlab.rar)
 
 # Credit :-
 1. [@RohitVerma](https://github.com/RohitVerma882) For Adbify app and modify qdl

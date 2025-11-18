@@ -4,7 +4,7 @@
 Flash Qualcomm Device Without PC Without Root in Simple Steps. QDL Tool Updated to letest source Now QDL Support 5 type storage (Nand/Emmc/nvme/ufs/spinor) also Speed improved, Flashing ui Chenged like Qfile tool.
 
 
-## installation :- 
+## Installation :- 
 
 ```Install``` [ADBify](https://play.google.com/store/apps/details?id=com.rv882.adbify)```apk```
 
@@ -24,7 +24,7 @@ cd /storage/emulated/0/qdl-flash
 ```console
 bash adbify-qdl.sh
 ```
-after this commond tool shiw in screen 
+after this commond tool show in screen 
 
 ## Tool interface & usage
 1. Here show all options emmc flash, ufs flash

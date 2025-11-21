@@ -4,7 +4,7 @@ trap "echo -e '\033[0;31m Script execution aborted. \033[0m'; exit 1" INT
 # Function to prompt user before returning to main menu
 return_to_menu() {
     echo -e "\033[1;33m╭───────────────────────────────────────────────╮\033[0m"
-    echo -e "\033[1;33m│ \033[1;97m  Returning to ADBiFY QDL menu?                    \033[1;33m│\033[0m"
+    echo -e "\033[1;33m│ \033[1;97m  Returning to ADBiFY QDL menu ?               \033[1;33m│\033[0m"
     echo -e "\033[1;33m╰───────────────────────────────────────────────╯\033[0m"
     
     read -p $'\033[1;36mGo to ADBiFY QDL menu? (y/n): \033[0m' choice

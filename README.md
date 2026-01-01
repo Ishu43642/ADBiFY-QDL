@@ -6,6 +6,8 @@ Flash Qualcomm Device Without PC Without Root in Simple Steps. QDL Tool Updated 
 
 ## Installation :- 
 
+Video 🎞️ Guide (Hindi) - [Click Here](https://youtu.be/cOsYlelqM00)
+
 ```Install``` [ADBify](https://play.google.com/store/apps/details?id=com.rv882.adbify)```apk```
 
 ## File Locations
